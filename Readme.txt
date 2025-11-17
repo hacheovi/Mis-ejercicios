@@ -1,0 +1,1 @@
+Realización de ejercicios personales para curso de programación.
